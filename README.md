@@ -28,8 +28,8 @@ I am a passionate and driven individual with a background in energy and electron
    Skills Utilized: IoT device integration, energy monitoring, and efficient resource utilization.
 
 4. **ESP32-Based Room Temperature Sensor**  
-   Objective: Create a room temperature sensor using ESP32 and display data on a ThingsBoard dashboard via MQTT protocol.  
-   Skills Utilized: ESP32, MQTT, ThingsBoard, IoT sensor integration.
+   Objective: Create a room temperature sensor using ESP32 and display data on a ThingsBoard dashboard via HTTP.  
+   Skills Utilized: ESP32, HTTP, ThingsBoard, IoT sensor integration.
 
 ## Skills & Interests 💻
 - **Programming Languages**: C, Python, JavaScript (jQuery for event handling).
